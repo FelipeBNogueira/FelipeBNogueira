@@ -1,0 +1,30 @@
+name: Gerar perfil 3D
+
+# Dispara a cada push na branch main e todo dia à meia-noite
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checar código
+        uses: actions/checkout@v4
+
+      - name: Gerar 3D contributions
+        uses: Platane/github-profile-3d-contrib@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_directory: profile-3d-contrib
+
+      - name: Commit e push dos arquivos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git commit -m "Atualiza animação 3D do perfil"
+          git push
