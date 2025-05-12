@@ -5,18 +5,16 @@
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/color/64/000000/sql.png" alt="SQL" title="SQL" />
+  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React" title="React Native" />
+  <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub" title="GitHub" />
+  <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" title="Git" />
+  <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" title="Docker" />
+  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" title="AWS" />
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-</p>
 
 ---
 
