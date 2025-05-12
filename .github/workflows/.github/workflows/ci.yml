@@ -1,0 +1,24 @@
+name: GitHub Actions Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Configurar Git
+      run: git config --global user.name 'github-actions'
+
+    - name: Enviar alterações
+      run: |
+        git remote set-url origin https://$GH_TOKEN@github.com/FelipeBNogueira/FelipeBNogueira.git
+        git push
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
