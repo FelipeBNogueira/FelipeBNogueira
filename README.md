@@ -4,14 +4,6 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-> 🌱 **Atualmente aprendendo**: Power BI, Python e automações com IA.  
-> 🎯 **Objetivo**: Ajudar a transformar dados em decisões!  
-> 🤝 **Aberto a colaborações** em projetos de tecnologia e saúde.
-
----
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
