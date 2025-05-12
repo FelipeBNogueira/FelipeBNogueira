@@ -1,22 +1,22 @@
-name: 3D Contributions
+name: Build and Commit
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '16'
-      - run: npm install
-      - run: npm run build
+          node-version: 20
+      # Remover as linhas npm
+      - run: git config user.name github-actions
+      - run: git config user.email github-actions[bot]@users.noreply.github.com
       - run: git add .
-      - run: git commit -m "Added 3D contribution graph"
-      - run: git push origin main
+      - run: |
+          if git commit -m "Update build" ; then
+            git push origin HEAD:main
+          fi
