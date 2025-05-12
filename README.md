@@ -15,19 +15,20 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 **Linguagens e Frameworks**
-
-- Python
-- Power BI
-- SQL
-- JavaScript
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</p>
 
 ### ⚙️ **Ferramentas e Tecnologias**
-
-- GitHub
-- Git
-- Docker
-- Node.js
-- AWS
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+</p>
 
 ---
 
@@ -69,3 +70,4 @@ Aqui estão alguns dos meus projetos em destaque:
 - Expandir conhecimentos em **Machine Learning**.
 - Aprofundar no uso de **AWS** para infraestrutura em nuvem.
 - Melhorar habilidades em **automação de processos** com Python.
+
