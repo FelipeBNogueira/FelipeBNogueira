@@ -12,9 +12,6 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 **Linguagens e Frameworks**
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -22,7 +19,6 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </p>
 
-### ⚙️ **Ferramentas e Tecnologias**
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
