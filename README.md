@@ -20,7 +20,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" width="64" height="64" alt="SharePoint" title="SharePoint" />
   <img src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png" width="64" height="64" alt="Power Automate" title="Power Automate" />
   <img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" title="Figma" />
-  <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" title="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="64" height="64" alt="Power BI" title="Power BI" />
   <img src="https://img.icons8.com/color/64/google-logo.png" alt="Google Tools" title="Ferramentas Google" />
   <img src="https://img.icons8.com/color/64/salesforce.png" alt="Salesforce" title="Salesforce" />
   <img src="https://img.icons8.com/color/64/trello.png" alt="Trello" title="Trello" />
