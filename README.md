@@ -30,6 +30,7 @@
   <a href="https://outlook.live.com/" target="_blank"><img src="https://img.icons8.com/color/64/ms-outlook.png" alt="Outlook" title="Outlook"/></a>
   <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/64/slack-new.png" alt="Slack" title="Slack"/></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.icons8.com/color/64/discord-logo.png" alt="Discord" title="Discord"/></a>
+  <a href="https://www.linkedin.com/in/cfbn-adm/" target="_blank"><img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
 
 </div>
 
