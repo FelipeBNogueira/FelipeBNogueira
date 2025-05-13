@@ -24,7 +24,7 @@
   <a href="https://www.salesforce.com/" target="_blank"><img src="https://img.icons8.com/color/64/salesforce.png" alt="Salesforce" title="Salesforce"/></a>
   <a href="https://trello.com/" target="_blank"><img src="https://img.icons8.com/color/64/trello.png" alt="Trello" title="Trello"/></a>
   <a href="https://www.rdstation.com/" target="_blank"><img src="https://cdn.brandfetch.io/rdstation.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="64" height="64" alt="RD Station" title="RD Station"/></a>
-  <a href="https://pentaho.hitachivantara.com/" target="_blank"><img src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" width="64" height="64" alt="Pentaho" title="Pentaho"/></a>
+  <a href="https://pentaho.com/" target="_blank"><img src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" width="64" height="64" alt="Pentaho" title="Pentaho"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/64/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.icons8.com/color/64/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></a>
   <a href="https://outlook.live.com/" target="_blank"><img src="https://img.icons8.com/color/64/ms-outlook.png" alt="Outlook" title="Outlook"/></a>
