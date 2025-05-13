@@ -15,10 +15,7 @@
   <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" title="AWS" />
 </p>
 
-
 ---
-
-## 📊 **Estatísticas do GitHub**
 
 <table>
   <tr>
@@ -28,14 +25,16 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBNogueira&layout=compact&theme=radical" alt="Top Langs"/>
     </td>
+    <td>
+      <div>
+        <p>
+          <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/><br>
+          <img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers"/>
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
----
-
-## 📈 **Badges & Status**
-
-- ![Profile Views](https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square)
-- ![GitHub followers](https://img.shields.io/github/followers/FelipeBNogueira?style=social)
 
 
