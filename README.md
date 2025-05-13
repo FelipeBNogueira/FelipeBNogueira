@@ -14,16 +14,18 @@
   <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" title="Git" />
   <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" title="AWS" />
+
+  <!-- Ferramentas adicionais -->
   <img src="https://img.icons8.com/color/64/microsoft-office-2019.png" alt="Microsoft Office" title="Microsoft Office" />
-  <img src="https://img.icons8.com/color/64/sharepoint.png" alt="SharePoint" title="SharePoint" />
-  <img src="https://img.icons8.com/color/64/microsoft-power-automate-2020.png" alt="Power Automate" title="Power Automate" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" width="64" height="64" alt="SharePoint" title="SharePoint" />
+  <img src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png" width="64" height="64" alt="Power Automate" title="Power Automate" />
   <img src="https://img.icons8.com/color/64/figma--v1.png" alt="Figma" title="Figma" />
   <img src="https://img.icons8.com/color/64/power-bi.png" alt="Power BI" title="Power BI" />
-  <img src="https://img.icons8.com/color/64/google-logo.png" alt="Ferramentas Google" title="Ferramentas Google" />
+  <img src="https://img.icons8.com/color/64/google-logo.png" alt="Google Tools" title="Ferramentas Google" />
   <img src="https://img.icons8.com/color/64/salesforce.png" alt="Salesforce" title="Salesforce" />
   <img src="https://img.icons8.com/color/64/trello.png" alt="Trello" title="Trello" />
-  <img src="https://img.icons8.com/color/64/rd-station.png" alt="RD Station" title="RD Station" />
-  <img src="https://img.icons8.com/color/64/pentaho.png" alt="Pentaho" title="Pentaho" />
+  <img src="https://cdn.brandfetch.io/rdstation.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="64" height="64" alt="RD Station" title="RD Station" />
+  <img src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" width="64" height="64" alt="Pentaho" title="Pentaho" />
   <img src="https://img.icons8.com/color/64/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://img.icons8.com/color/64/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" />
   <img src="https://img.icons8.com/color/64/ms-outlook.png" alt="Outlook" title="Outlook" />
