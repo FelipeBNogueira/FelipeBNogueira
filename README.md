@@ -1,5 +1,3 @@
-FelipeBNogueira/README.md
-
 # Hello World! 👋
 
 <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/>
