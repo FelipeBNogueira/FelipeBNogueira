@@ -53,16 +53,15 @@
   <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBNogueira&theme=default&background=ffffff&border=0d6efd" alt="GitHub Streak" />
 </div>
 
-<div style="text-align: center;">
-  <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
-</div>
-
 <img 
   src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=neon&no-frame=false&no-bg=false&margin-w=15&columns=5" 
   alt="GitHub Trophies" 
   style="display: block;" 
 />
 
+<div style="text-align: center;">
+  <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
+</div>
 
 
 
