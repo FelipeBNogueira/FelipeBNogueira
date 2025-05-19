@@ -1,4 +1,11 @@
-# Hi there 👋
+FelipeBNogueira/README.md
+
+# Hello World! 👋
+
+<img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/>
+
+</div>
+
 
 ![Meu perfil 3D](https://raw.githubusercontent.com/FelipeBNogueira/FelipeBNogueira/main/profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -36,21 +43,27 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FelipeBNogueira&show_icons=true&theme=radical" alt="Felipe's GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBNogueira&layout=compact&theme=radical" alt="Top Langs"/>
-    </td>
-    <td>
-      <div>
-        <p>
-          <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/><br>
-          <img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+## 📫 How to reach me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-cfbn.adm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfbn.adm@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-cfbn--adm-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfbn-adm/)
+
+---
+<div style="display: flex; gap: 20px; flex-wrap: nowrap; align-items: flex-start; margin-bottom: 10px;">
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=FelipeBNogueira&show_icons=true&theme=default&bg_color=ffffff&title_color=0d6efd&icon_color=0d6efd&text_color=000000&border_color=0d6efd" alt="GitHub Stats" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBNogueira&layout=compact&theme=default&bg_color=ffffff&title_color=0d6efd&text_color=000000&border_color=0d6efd" alt="Top Langs" />
+  <img width="280" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBNogueira&theme=default&background=ffffff&border=0d6efd" alt="GitHub Streak" />
+</div>
+
+<div style="text-align: center;">
+  <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
+</div>
+
+
+
+
+
+
+
+
+
