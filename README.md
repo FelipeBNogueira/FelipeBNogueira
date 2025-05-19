@@ -57,6 +57,19 @@
   <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
 </div>
 
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 8px; display: inline-block;">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=dark&no-frame=true&no-bg=true&margin-w=15&columns=5" 
+    alt="GitHub Trophies" 
+    style="display: block;"
+  />
+</div>
+
+
+
+
+
+
 
 
 
