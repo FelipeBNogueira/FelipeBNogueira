@@ -58,7 +58,6 @@
   alt="GitHub Trophies" 
   style="display: block;" 
 />
-
 <div style="text-align: center;">
   <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
 </div>
