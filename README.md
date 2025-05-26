@@ -1,6 +1,10 @@
 # Hello World! 👋
 
-<img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/>
+  <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
+</div>
+
 
 </div>
 
@@ -58,9 +62,6 @@
   alt="GitHub Trophies" 
   style="display: block;" 
 />
-<div style="text-align: center;">
-  <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
-</div>
 
 
 
