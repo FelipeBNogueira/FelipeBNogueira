@@ -56,8 +56,14 @@
   <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBNogueira&theme=default&background=ffffff&border=0d6efd" alt="GitHub Streak" />
 </div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-/>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=6&margin-w=10" width="80%">
+  </a>
+</div>
+
+
+
 
 
 
