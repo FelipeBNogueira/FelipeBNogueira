@@ -49,9 +49,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-cfbn.adm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfbn.adm@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-cfbn--adm-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfbn-adm/)
 
-<div style="white-space: nowrap; overflow-x: auto; text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=12&margin-w=10" style="height: 100px; display: inline-block;">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&row=1&column=6&margin-w=10" height="100px" />
+</p>
+
+
 
 
 
