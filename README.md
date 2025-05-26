@@ -58,7 +58,7 @@
 
 <div align
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=6&margin-w=10" width="80%">
+    <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=6&margin-w=10" width="40%">
   </a>
 </div>
 
