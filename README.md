@@ -5,7 +5,6 @@
   <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
 </div>
 
-
 </div>
 
 
@@ -57,10 +56,7 @@
   <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBNogueira&theme=default&background=ffffff&border=0d6efd" alt="GitHub Streak" />
 </div>
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=neon&no-frame=false&no-bg=false&margin-w=15&columns=5" 
-  alt="GitHub Trophies" 
-  style="display: block;" 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 />
 
 
