@@ -50,7 +50,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-cfbn--adm-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfbn-adm/)
 
 <div style="white-space: nowrap; overflow-x: auto;">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=12&margin-w=10" style="height: 240px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&column=12&margin-w=10" style="height: 140px;">
 </div>
 
 
