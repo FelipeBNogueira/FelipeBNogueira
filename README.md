@@ -1,12 +1,6 @@
-# Hello World! 👋
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&style=flat-square" alt="Profile Views"/>
-  <img width="100" src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
-</div>
+# Hello World! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlZmQ5eXNjYnFvd3M4anBkOXIwbmExamRnaWpwczJpbGJvemI3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="55" style="vertical-align:middle" />
 
 </div>
-
 
 ![Meu perfil 3D](https://raw.githubusercontent.com/FelipeBNogueira/FelipeBNogueira/main/profile-3d-contrib/profile-night-rainbow.svg)
 
