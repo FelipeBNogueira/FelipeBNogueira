@@ -1,6 +1,11 @@
-# Hello World! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlZmQ5eXNjYnFvd3M4anBkOXIwbmExamRnaWpwczJpbGJvemI3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="55" style="vertical-align:middle" />
+# Hello World! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlZmQ5eXNjYnFvd3M4anBkOXIwbmExamRnaWpwczJpbGJvemI3MiZlcD12MV9pbnRlcm5hbF9naWYfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="55" style="vertical-align:middle" />
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&color=brightgreen" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
+</p>
 
 ![Meu perfil 3D](https://raw.githubusercontent.com/FelipeBNogueira/FelipeBNogueira/main/profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -8,7 +13,6 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <!-- Linguagens e ferramentas -->
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" title="Python"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/64/000000/sql.png" alt="SQL" title="SQL"/></a>
@@ -46,26 +50,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&row=1&column=6&margin-w=10" height="100px" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
