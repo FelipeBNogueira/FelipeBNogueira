@@ -1,11 +1,9 @@
-# Hello World! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlZmQ5eXNjYnFvd3M4anBkOXIwbmExamRnaWpwczJpbGJvemI3MiZlcD12MV9pbnRlcm5hbF9naWYfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="55" style="vertical-align:middle" />
+# Hello World! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlZmQ5eXNjYnFvd3M4anBkOXIwbmExamRnaWpwczJpbGJvemI3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="55" style="vertical-align:middle" />
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&color=brightgreen" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social" alt="GitHub followers" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&color=brightgreen" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social&label=Follow&color=blue" alt="GitHub followers" />
 
 ![Meu perfil 3D](https://raw.githubusercontent.com/FelipeBNogueira/FelipeBNogueira/main/profile-3d-contrib/profile-night-rainbow.svg)
 
