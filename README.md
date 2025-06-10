@@ -2,7 +2,7 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&color=brightgreen" alt="Profile views" /> <img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social&label=Follow&color=blue" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=FelipeBNogueira&color=brightgreen" alt="Profile views" /> <img src="https://img.shields.io/github/followers/FelipeBNogueira?style=social&label=Follow&color=blue" alt="GitHub followers" /> 
 
 ![Meu perfil 3D](https://raw.githubusercontent.com/FelipeBNogueira/FelipeBNogueira/main/profile-3d-contrib/profile-night-rainbow.svg)
 
