@@ -41,9 +41,10 @@
 
 ## 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-cfbn.adm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfbn.adm@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-cfbn--adm-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfbn-adm/)
+## Contato
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28">](https://www.instagram.com/felipebnogueira/)
+&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/128px-LinkedIn_logo_initials.png" alt="LinkedIn" width="28" height="28">](https://www.linkedin.com/in/cfbn-adm/)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeBNogueira&theme=gruvbox&row=1&column=6&margin-w=10" height="100px" />
-</p>
+Felipe Nogueira — [Clique aqui para acessar o meu site](https://potionsolutions.com)
+
