@@ -45,6 +45,8 @@
 [<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28">](https://www.instagram.com/felipebnogueira/)
 &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/128px-LinkedIn_logo_initials.png" alt="LinkedIn" width="28" height="28">](https://www.linkedin.com/in/cfbn-adm/)
+&nbsp;
+<a href="https://potionsolutions.com" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/9351/9351284.png" alt="Potion Solutions" width="28" height="28" style="vertical-align:middle;"></a>
 
 Felipe Nogueira — [Clique aqui para acessar o meu site](https://potionsolutions.com)
 
