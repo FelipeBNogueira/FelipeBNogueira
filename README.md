@@ -32,7 +32,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.icons8.com/color/32/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></a>
 <a href="https://outlook.live.com/" target="_blank"><img src="https://img.icons8.com/color/32/ms-outlook.png" alt="Outlook" title="Outlook"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/32/slack-new.png" alt="Slack" title="Slack"/></a>
-<a href="https://discord.com/" target="_blank"><img src="https://img.icons8.com/color/32/discord-logo.png" alt="Discord" title="Discord"/></a>
 <a href="https://www.linkedin.com/in/cfbn-adm/" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
 
 
