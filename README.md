@@ -33,6 +33,7 @@
 <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/32/slack-new.png" alt="Slack" title="Slack"/></a>
 <a href="https://www.linkedin.com/in/cfbn-adm/" target="_blank"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn" title="LinkedIn"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/32/figma--v1.png" alt="Figma" title="Figma"/></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="32" height="32" alt="Notion" title="Notion"/></a>
 
 
 </div>
