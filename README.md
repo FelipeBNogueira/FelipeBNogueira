@@ -12,7 +12,6 @@
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/32/000000/python.png" alt="Python" title="Python"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/32/000000/javascript.png" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React Native" title="React Native"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/32/000000/sql.png" alt="SQL" title="SQL"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/32/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.icons8.com/color/32/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/></a>
